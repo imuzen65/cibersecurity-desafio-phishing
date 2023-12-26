@@ -23,4 +23,4 @@
 
 
 ### Obs:
-Não consegui realizar o desafio com a url do ``` Facebbok ``` via ``` Site Cloner ```, por isso fiz um caminho alternativo.
+Não consegui realizar o desafio com a url do ``` Facebook ``` via ``` Site Cloner ```, por isso fiz um caminho alternativo.

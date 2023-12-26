@@ -17,8 +17,10 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - Web Templates: ``` Google ```
 
-### Resutados
-
-![Alt text](./passwd.png "Optional title")
+### Resultados
 
 ![Alt textl](./phishing_desafio_dio.png "Optional title")
+
+
+### Obs:
+Não consegui realizar o desafio com a url do ``` Facebbok ``` via ``` Site Cloner ```, por isso fiz um caminho alternativo.
